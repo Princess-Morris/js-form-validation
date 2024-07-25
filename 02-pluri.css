@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin:15px;
+    padding: 0;
+    /* background-color: f8f8f8; */
+}
+
+.cell-style{
+    padding: 4px 8px;
+    color: blue;
+}
